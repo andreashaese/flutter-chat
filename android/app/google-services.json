@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "999048775304",
+    "project_id": "fir-dd28b",
+    "storage_bucket": "fir-dd28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999048775304:android:d91b48b82086de025a413d",
+        "android_client_info": {
+          "package_name": "com.example.demo_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999048775304-8tmvrugntf0nhgdp5s3qj6p5r2tkg3c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcySSLYeXwnMWp5rQAU7FHmP4S3-T6tck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999048775304-8tmvrugntf0nhgdp5s3qj6p5r2tkg3c8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999048775304-1slpl6j15qs7fohve8v2kel7g3e2damr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
